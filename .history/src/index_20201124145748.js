@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from "../src/components/Navbar"
-import Login from "../src/components/Login"
+import login from "../src/components/login"
 
 
 class App extends Component{
@@ -10,7 +10,7 @@ class App extends Component{
 return (
 <div>
 <Navbar/>
-<Login/>
+<login/>
 
 </div>
 )
