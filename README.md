@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-
+## Artists
+Bulb on by jportch - https://media.giphy.com/media/ibvzyMTDAlcsb4Fm2q/giphy.gif
 ## Available Scripts
 
 In the project directory, you can run:
