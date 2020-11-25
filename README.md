@@ -1,6 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<br>
-[formdemo(https://github.com/CSituma/Login-Register-React-/blob/main/src/ezgif.com-gif-maker.gif)
+<br>(https://github.com/CSituma/Login-Register-React-/blob/main/src/ezgif.com-gif-maker.gif)
 
 
 
